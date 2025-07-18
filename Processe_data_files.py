@@ -325,6 +325,6 @@ def process_data_files(input_file_path_1, input_file_path_2, output_file_path):
 if __name__ == "__main__":
     input_file_path_1 = 'input_file_1.xlsx'
     input_file_path_2 = 'input_file_2.xlsx'
-    output_file_path = 'output_file3.xlsx'
+    output_file_path = 'output_file.xlsx'
 
     process_data_files(input_file_path_1, input_file_path_2, output_file_path)
